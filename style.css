@@ -1,0 +1,20 @@
+    *{
+        background: #0B85FF;
+    }
+    img input.button{
+        width: 20px;
+        margin-bottom: 3px;
+        z-index: 1;
+        height: 40px;
+        float: left;
+        background:transparent url('il.png') center center  no-repeat;
+
+    }
+    input{
+        width: 150px;
+        height: 35px;
+        border: none;
+        background: #ffd71b;
+        color: #000000;
+        border-radius: 0.25rem;
+    }
